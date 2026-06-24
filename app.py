@@ -7,7 +7,6 @@ from scipy import stats
 pn.extension('plotly')
 
 # TWO LINES:
-pn.config.allow_websocket_origin = ["panel-app-vajx.onrender.com"]
 pn.config.nthreads = 1  # Helps keep the free tier happy
 # ---------------------------------------------------------
 # 1. Define the Widgets
