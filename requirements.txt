@@ -1,0 +1,4 @@
+panel
+plotly
+numpy
+scipy>=1.10.0
